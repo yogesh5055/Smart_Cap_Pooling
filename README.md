@@ -56,6 +56,8 @@ Smart Cab Pooling System is a **Java console-based application** that efficientl
 ### 🔹 Match Found
 ![Match Found](./screenshots/nomatch.png)
 
+---
+
 ## 📁 Project Structure
 Smart_Cab_Pooling/
 ┣ Main.java
