@@ -45,16 +45,14 @@ Smart Cab Pooling System is a **Java console-based application** that efficientl
 
 ## 📸 Screenshots
 
-![Home Menu](./screenshots/home.png)
+
 
 ### 🔹 Request a Ride
-![Request Ride](./screenshots/request.png)
+![Request Ride](./screenshots/Enter.png)
 
-### 🔹  No Match Found
-![No Match Found](./screenshots/matchfound.png)
 
 ### 🔹 Match Found
-![Match Found](./screenshots/nomatch.png)
+![Match Found](./screenshots/Match.png)
 
 ---
 
